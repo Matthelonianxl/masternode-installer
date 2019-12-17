@@ -64,7 +64,7 @@
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "bplist-parser": "^0.1.1",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "motion-core": "https://github.com/motioncrypto/motion-core",
     "vue": "^2.5.13",
     "vue-electron": "^1.0.6",
