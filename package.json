@@ -63,7 +63,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
-    "bplist-parser": "^0.1.1",
+    "bplist-parser": "^0.2.0",
     "express": "^4.16.3",
     "motion-core": "https://github.com/motioncrypto/motion-core",
     "vue": "^2.5.13",
